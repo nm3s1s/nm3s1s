@@ -141,7 +141,7 @@ class CybersecurityStudent:
 
 <div align="center">
 
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/nm3s1s)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/nm3s1ss)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-C11111?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/nm3s1s)
 [![PortSwigger](https://img.shields.io/badge/PortSwigger-Academy-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)](https://portswigger.net/web-security)
 
@@ -153,10 +153,10 @@ class CybersecurityStudent:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomás-de-león-garcía-5572a8305)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nm3s1s)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nm3s1s@proton.me)
 
 </div>
 
@@ -179,5 +179,3 @@ class CybersecurityStudent:
 </div>
 
 ---
-
-> **Nota:** Recuerda reemplazar los enlaces de LinkedIn, Twitter y Email con tus datos reales. También puedes personalizar los colores y añadir tus perfiles reales de HackTheBox y TryHackMe.
