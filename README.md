@@ -113,7 +113,7 @@ class CybersecurityStudent:
 ## 💡 Enfoque Actual
 
 ```bash
-┌──(tomas㉿kali)-[~]
+┌──(nm3s1s㉿kali)-[~]
 └─$ cat current_objectives.txt
 
 📚 Estudiando:
@@ -168,9 +168,6 @@ class CybersecurityStudent:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 👁️ Visitas al perfil
-
-![Visitor Count](https://profile-counter.glitch.me/nm3s1s/count.svg)
 
 ---
 
